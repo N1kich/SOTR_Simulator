@@ -1,0 +1,15 @@
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\SOTR_Simulator.exe.config
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\SOTR_Simulator.exe
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\SOTR_Simulator.pdb
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.Form1.resources
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.Properties.Resources.resources
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.csproj.GenerateResource.cache
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.exe
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.pdb
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.csprojAssemblyReference.cache
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\SOTR_Simulator.exe.manifest
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\SOTR_Simulator.application
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.exe.manifest
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Debug\SOTR_Simulator.application
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\bin\Debug\TestLibrary.dll

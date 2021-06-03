@@ -1,0 +1,5 @@
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Release\SOTR_Simulator.csprojAssemblyReference.cache
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Release\SOTR_Simulator.Form1.resources
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Release\SOTR_Simulator.Properties.Resources.resources
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Release\SOTR_Simulator.csproj.GenerateResource.cache
+C:\Users\funn1\source\repos\SOTR_Simulator\SOTR_Simulator\obj\Release\SOTR_Simulator.csproj.CoreCompileInputs.cache
